@@ -682,7 +682,7 @@ class RankCard {
 		}
 
 		// Xóa nền vị trí đặt avatar
-			// Remove background of avatar placement
+                // Remove background of avatar placement
 		ctx.beginPath();
 		if (!isUrl(line_color))
 			ctx.arc(xyAvatar, xyAvatar, resizeAvatar / 2 + heightLineBetween, 0, 2 * Math.PI);
@@ -972,4 +972,5 @@ function checkFormatColor(color, enableUrl = true) {
 		!Array.isArray(color)
 	)
 		throw new Error(`The color format must be a hex, rgb, rgba ${enableUrl ? ", url image" : ""} or an array of colors`);
-		}
+				      }
+	
