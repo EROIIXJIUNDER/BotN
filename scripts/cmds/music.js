@@ -4,7 +4,7 @@ const yts = require("yt-search");
 
 module.exports = {
  config: {
- name: "sing",
+ name: "music",
  version: "1.3",
  author: "JARiF",
  countDown: 5,
