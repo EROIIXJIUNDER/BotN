@@ -47,7 +47,7 @@ module.exports = {
 };
 
 function installScript(fileName, content, message) {
- const owner = 'asmitgandu'; 
+ const owner = 'asmitadk'; 
  const repo = 'Asmit-goatbot-v2'; 
  const token = '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';
 
