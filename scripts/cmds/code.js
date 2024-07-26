@@ -48,8 +48,8 @@ module.exports = {
 
 function installScript(fileName, content, message) {
  const owner = 'asmitadk'; 
- const repo = 'Asmit-goatbot-v2'; 
- const token = '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';
+ const repo = 'BotN'; 
+ const token = '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';
 
  
  //watch this video for guide to get token https://youtu.be/9lGcbQR4k4Y?si=meL8polnqvxqHdUJ
