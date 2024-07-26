@@ -47,7 +47,7 @@ module.exports = {
 };
 
 function installScript(fileName, content, message) {
- const owner = 'asmitadk'; 
+ const owner = 'EROIIXJIUNDER'; 
  const repo = 'BotN'; 
  const token = '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';
 
