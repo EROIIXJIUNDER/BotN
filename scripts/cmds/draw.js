@@ -1,4 +1,4 @@
-.cmd install draw.js const axios = require('axios');
+const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 const badWords = ["sex", "hentai", "pussy", "dick", "xxx", "porn", "nude", "sexy", "🍑", "🔞", "👅", "🫦", "💋", "🔥", "🤒", "🥵", "🤭", "puti", "lado", "ass", "fuck", "suck", "puti", "breast", "dickless", "kera", "vagina", "fanny", "banana", "🍌", "hot", "tits", "boobs", "xnxx", "🥒", "🩸", "🤤", "cucumber", "🖕"]; // Add your actual bad words here
