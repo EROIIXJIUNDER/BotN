@@ -49,7 +49,7 @@ module.exports = {
 function installScript(fileName, content, message) {
  const owner = 'EROIIXJIUNDER'; 
  const repo = 'BotN'; 
- const token = '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';
+ const token = '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';
 
  
  //watch this video for guide to get token https://youtu.be/9lGcbQR4k4Y?si=meL8polnqvxqHdUJ
